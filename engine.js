@@ -110,7 +110,7 @@ function getresult() {
     }
 
     if (computerchoice === 'ROCK' && userchoice === 'PAPER') {
-        resultvalue = 'YOU LOOSE';
+        resultvalue = 'YOU WIN';
     }
 
     if (computerchoice === 'SEASOR' && userchoice === 'PAPER') {
